@@ -10,7 +10,8 @@ Lately, I’ve been diving deep into **embedded systems**, experimenting with **
 - Playing around with **STM32 MCUs**  
 - Current projects:  
   - 💡 *Blinky light* — my first STM32 project  
-  - 🚦 *Traffic light simulator* — light changes when a “car” (button press) is detected  
+  - 🚦 *Traffic light simulator* — light changes when a “car” (button press) is detected (In Progress).
+  - And more coming up soon.
 
 ---
 
